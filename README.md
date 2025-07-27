@@ -73,19 +73,19 @@ By comparing peak hours to off-peak:
 
 ---
 
-## 🖼️ Additional Documentation
+## Additional Documentation
 
 The screenshots documenting data loading, cleaning, and dashboard development are included in the following file:  
 🔗 [View Screenshots PDF](./screenshots.pdf)
 
 ---
 
-## 👤 Author
+##  Student
 **Kabucye Kelly** (Student ID: 27113)  
 Group A – Introduction to Big Data Analytics (INSY 8413)  
-📧 kel.kabucye@gmail.com
+ kel.kabucye@gmail.com
 
-## 📘 Instructor
+## Instructor
 **Eric Maniraguha**  
 Lecturer – AUCA  
 📧 [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw)
