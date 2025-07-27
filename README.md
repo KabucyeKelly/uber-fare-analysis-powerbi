@@ -65,7 +65,8 @@ By comparing peak hours to off-peak:
 ## Project Files
 - `uber_cleaned.csv` – Raw data with null values and outliers removed
 - `uber_enhanced.csv` – Cleaned dataset with engineered features
-- `dashboard.pbix` – Final Power BI interactive dashboard
+- `uber_dashboard.pbix` – Final Power BI dashboard
+- `screenshots.pdf` – Documentation screenshots
 
 ---
 
